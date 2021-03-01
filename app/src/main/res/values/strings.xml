@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SQLite</string>
+    <string name="course_title">Title</string>
+    <string name="course_code">Code</string>
+    <string name="save">Save</string>
+    <string name="add_course">ADD COURSE</string>
+
+</resources>
